@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/ElevenLabs_2025-01-15T04_19_44_Adeline_pvc_s97_sb95_m1.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
