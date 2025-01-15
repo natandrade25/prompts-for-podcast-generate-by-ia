@@ -1,6 +1,7 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Designer (4).jpeg
+"
     width="300"
 />
 </p>
