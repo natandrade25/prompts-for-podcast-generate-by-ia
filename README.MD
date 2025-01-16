@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="100" src="https://raw.githubusercontent.com/natandrade25/prompts-for-podcast-generate-by-ia/refs/heads/main/assets/Designer%20(4).jpeg">
+</p>
 
 
 <p align="center">
@@ -59,29 +62,29 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert Instrutor
+## 👨‍💻 Expert
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/192154114?s=400&u=2499662b185e435b41907217ddee6f2e1c3da830&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspNatalia Andrade<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/natandrade25">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/in/natalia-andrade-33776030a">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/natandrade25/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -90,5 +93,3 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
